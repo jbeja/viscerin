@@ -1,0 +1,9 @@
+
+sample/
+mysvg(
+nbproject/
+page/
+svg/
+videos/
+*.zip
+*.json

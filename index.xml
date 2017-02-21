@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://jbeja.github.io/jesusbejarano/en/en/index.xml</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Nov 2016 10:33:01 -0430</lastBuildDate>
+    <atom:link href="https://jbeja.github.io/jesusbejarano/en/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Phantasoft&#39;s Image Editor</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/sample/phantasoft-embeddable-image-editor/</link>
+      <pubDate>Fri, 11 Nov 2016 10:33:01 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/sample/phantasoft-embeddable-image-editor/</guid>
+      <description>
+
+&lt;h3 id=&#34;phantasoft-s-image-editor&#34;&gt;Phantasoft&amp;rsquo;s Image Editor&lt;/h3&gt;
+
+&lt;p&gt;The app is embeddedable image manipulation editor made in HTML5
+The architecture consist in a tabbed sidebar that hold different options in work with an image previewer for image manipulation and retrieval.&lt;/p&gt;
+
+&lt;p&gt;The following describe how each tabs works along with the previewer.&lt;/p&gt;
+
+&lt;h4 id=&#34;camera&#34;&gt;Camera:&lt;/h4&gt;
+
+&lt;p&gt;In this pane the user can take and discard a picture taken with the user web camera.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-camera.jpg&#34; alt=&#34;Camera pane&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;source&#34;&gt;Source:&lt;/h4&gt;
+
+&lt;p&gt;In this pane there are options to load image from disk or the web:&lt;/p&gt;
+
+&lt;p&gt;On the drop-zone box, users can drag and drop an image via a web page or disk. Also,
+paste valid image URL on to be loaded on the previewer is also supported.&lt;/p&gt;
+
+&lt;p&gt;Another alternative to load an image from the disk is to click the button bellow the drop-zone to open the user&amp;rsquo;s file manager and set the image from there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-source.jpg&#34; alt=&#34;Source pane&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;web-search&#34;&gt;Web Search:&lt;/h4&gt;
+
+&lt;p&gt;On the top right corner there is an input which can serve as an interface to set image from the web.
+The feature use Google as its search engine. After keywords are set, a list of images&lt;/p&gt;
+
+&lt;p&gt;Will appear, these thumbnails can be clicked to be previewed on the previewer and select for set.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-gis.jpg&#34; alt=&#34;Google search pane&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;crop&#34;&gt;Crop:&lt;/h4&gt;
+
+&lt;p&gt;A cropping box will appear on the previewer. The inside of the box determine the portion of the image that will remain after cropped. This tool can be resided and adjusted at will.
+The sliders list below the buttons, beside showing the current coordinate of the crop-box, size and aspect ratio, they also can modify it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-crop.jpg&#34; alt=&#34;Crop pane&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;settings&#34;&gt;Settings:&lt;/h4&gt;
+
+&lt;p&gt;The image can be rotated and flipped on the Y axis using the options that appear on the pane.
+The sliders below the buttons will preview each filters given their value.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-settings.jpg&#34; alt=&#34;Settings pane&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;filters&#34;&gt;Filters:&lt;/h4&gt;
+
+&lt;p&gt;This pane comes with preset filters for application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-filters.jpg&#34; alt=&#34;alt text&#34; title=&#34;Logo Title Text 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;history&#34;&gt;History:&lt;/h4&gt;
+
+&lt;p&gt;The app support history undo through a listed interface in which user can jump to
+a past state.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/image-plugin/captura-image-plugin-undo.jpg&#34; alt=&#34;alt text&#34; title=&#34;Logo Title Text 1&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Done with manipulation, the user can use the options on the bottom of window to download the resulting image.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>necoyoad</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/sample/necoyoad/</link>
+      <pubDate>Wed, 15 Jun 2016 10:33:01 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/sample/necoyoad/</guid>
+      <description>
+
+&lt;h3 id=&#34;necotienda&#34;&gt;Necotienda&lt;/h3&gt;
+
+&lt;p&gt;I redesigned and rewrote the e-commerce front-end and its many default plugins. Most of the improvement of resolve around:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The overall UI/UX.&lt;/li&gt;
+&lt;li&gt;Better code quality and integrated development tools.&lt;/li&gt;
+&lt;li&gt;Improvements and bugs catching on the default plugins.&lt;/li&gt;
+&lt;li&gt;Faster page loads and dependency management.&lt;/li&gt;
+&lt;li&gt;Better feedback and improvements on accessibility.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&#34;row&#34;&gt;
+    &lt;figure class=&#34;column&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-home.png&#34;&gt;
+    &lt;/figure&gt;
+    &lt;figure class=&#34;column medium-6&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-product-view.png&#34;&gt;
+    &lt;/figure&gt;
+    &lt;figure class=&#34;column medium-6&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-quickview.png&#34;&gt;
+    &lt;/figure&gt;
+    &lt;figure class=&#34;column&#34;&gt;
+        &lt;img class=&#34;rise&#34; src=&#34;https://jbeja.github.io/jesusbejarano/en/img/sample/necoyoad/captura-necotienda-wizard.png&#34;&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>phcomputer.com.ve</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/sample/phcomputer.com/</link>
+      <pubDate>Wed, 15 Jun 2016 10:17:57 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/sample/phcomputer.com/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newarrival.net.ve</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/sample/newarrival.net/</link>
+      <pubDate>Wed, 15 Jun 2016 10:10:22 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/sample/newarrival.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>julietalinares.com</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/sample/julietalinares/</link>
+      <pubDate>Wed, 15 Jun 2016 10:04:00 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/sample/julietalinares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/page/contact/</link>
+      <pubDate>Wed, 27 Apr 2016 15:10:05 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/page/contact/</guid>
+      <description>
+
+&lt;h3 id=&#34;let-s-get-in-touch&#34;&gt;Let&amp;rsquo;s get in touch!&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m currently available for freelance work. I would love to hear from you and your projects. If you want us to work together, please contact me through:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;mailto:bejaranojesus99@gmail.com&#34;&gt;&lt;strong&gt;bejaranojesus99@gmail.com&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;skype:jbeja&#34;&gt;&lt;strong&gt;skype: jbejaweb&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://jbeja.github.io/jesusbejarano/en/en/page/about/</link>
+      <pubDate>Wed, 27 Apr 2016 15:09:45 -0430</pubDate>
+      
+      <guid>https://jbeja.github.io/jesusbejarano/en/en/page/about/</guid>
+      <description>&lt;p&gt;My name is Jesús and I am originally from Venezuela. I am frontend web developer with more than 3 years of experience and highly skilled in web front-end technologies. I can develop fast, responsive, high quality &amp;amp; user friendly clients with your goals in mind.&lt;/p&gt;
+
+&lt;p&gt;Most of my experience resolves working around popular CMS platforms, e-commerce platform, developing dashboards for web apps and JavaScript plugins.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
